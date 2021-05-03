@@ -6,7 +6,7 @@
 </p>
 
 ## What is it ?
-This API was createad using Django RestFramework. Here we can add books into a catalog, adding his informations like: the author, release year, an image...
+This API was created using Django RestFramework. Here we can add books into a catalog, adding informations like: the author, release year, an image...
 
 ## Documentation
  https://www.django-rest-framework.org/
