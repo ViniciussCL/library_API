@@ -20,4 +20,4 @@ From Source
 
 • Git clone repository
 
-• Use ```pip install -r requirements.txt``` to install te required packages
+• Use ```pip install -r requirements.txt``` to install the required packages
